@@ -1,8 +1,8 @@
 # Learning Python
 ---
 ## List some basic types as well as methods
-|Process|Name|
-|---|---|
-|[x]|[Variables](./variables.py)|
-|[x]|[Strings](./strings.py)|
-|[ ]|[Lists](./lists.py)|
+|Process|Name|Methods
+|---|---|---|
+|[x]|[Variables](./variables.py)|How to set a variable|
+|[x]|[Strings](./strings.py)|case, len, replace, split, find, isalpha/numeric|
+|[ ]|[Lists](./lists.py)||
