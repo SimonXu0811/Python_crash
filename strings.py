@@ -18,13 +18,48 @@ age = 21
 s = 'hello World'
 
 # Capitalize Strings
-print(s.capitalize())
+# print(s.capitalize())
 
 # Make all Upper Case
-print(s.upper())
+# print(s.upper())
 
 # Make all Lower Case
-print(s.lower())
+# print(s.lower())
 
 # Swap Case
-print(s.swapcase())
+# print(s.swapcase())
+
+# Get length
+print(len(s))
+
+# Replace
+print(s.replace('World', 'everyone'))
+
+# Count
+substr = 'h'
+print(s.count(substr))
+
+# Start with return true of false
+print(s.startswith('hello'))
+
+# End with return true of false
+print(s.endswith('d'))
+
+# Spit into a list
+print(s.split())
+
+# Find position return the find position
+print(s.find('r'))
+
+
+# All checks cannot include space
+new_s = "helloworld"
+# Is all alphanumeric
+print(s.isalnum())
+print(f'new_s should be alphanumeric {new_s.isalnum()}')
+
+# Is all alphabetic
+print(s.isalpha())
+
+# Is all numeric
+print(s.isnumeric())
