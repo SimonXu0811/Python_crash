@@ -3,6 +3,8 @@
 import datetime
 from datetime import date
 import time
+import validator
+from validator import validate_email
 
 # today = datetime.date.today()
 # today = date.today()
@@ -13,4 +15,10 @@ timestamp = time.time()
 print(timestamp)
 
 
+
+email = "test#test.com"
+if validate_email(email) :
+    print("email is vailed")
+else:
+    print("email is bad")
 # pip3 install modules

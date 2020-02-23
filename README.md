@@ -13,5 +13,7 @@
 |[x]|[Loops](./loops.py)|for, while, range|
 |[x]|[Modules](./modules.py)|packages|
 |[x]|[Validator](./validator.py)|match|
-
+|[x]|[Classes](./classes.py)|create an object, extend classes|
+|[x]|[Files](./files.py)|create, read, write, append files|
+|[x]|[JSON](./py_json.py)|parse json to dic, parse dic to json|
 
