@@ -9,4 +9,9 @@
 |[x]|[Tuples&Sets](./tuples_sets)|create tuples, delete tuples, len, create sets, add, remove, check in set, clear, delete|
 |[x]|[Dictionaries](./dictionaries.py)|create, add, remove, copy, list of dic|
 |[x]|[Functions](./functions.py)|create function, lambda function|
+|[x]|[Conditionals](./conditionals.py)|if, else, elif, in/not in, is/is not, operators|
+|[x]|[Loops](./loops.py)|for, while, range|
+|[x]|[Modules](./modules.py)|packages|
+|[x]|[Validator](./validator.py)|match|
+
 
